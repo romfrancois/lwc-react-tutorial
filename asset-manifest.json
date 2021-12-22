@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lwc-react-tutorial/static/css/main.8d24e576.css",
+    "main.js": "/lwc-react-tutorial/static/js/main.30d51769.js",
+    "static/js/787.af753068.chunk.js": "/lwc-react-tutorial/static/js/787.af753068.chunk.js",
+    "index.html": "/lwc-react-tutorial/index.html",
+    "main.8d24e576.css.map": "/lwc-react-tutorial/static/css/main.8d24e576.css.map",
+    "main.30d51769.js.map": "/lwc-react-tutorial/static/js/main.30d51769.js.map",
+    "787.af753068.chunk.js.map": "/lwc-react-tutorial/static/js/787.af753068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d24e576.css",
+    "static/js/main.30d51769.js"
+  ]
+}
